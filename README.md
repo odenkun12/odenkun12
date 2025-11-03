@@ -8,3 +8,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,nodejs,go,c)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odenkun12)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Interests
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
